@@ -1,0 +1,5 @@
+org/openjfx/Board.class
+org/openjfx/ChessGame.class
+module-info.class
+org/openjfx/Knight.class
+org/openjfx/Square.class
