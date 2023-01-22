@@ -9,7 +9,9 @@ Maven
 
 ## Running it
 Clone the project, then in your favorite terminal copy paste:
-```mvn clean javafx:run```
+```
+mvn clean javafx:run
+```
 
 ## Gameplay
 Click anywhere on the board to begin.
