@@ -66,7 +66,7 @@ public class Board {
     this.knight.move(row, column);
     this.knightCounter++;
     this.pane.add(new Label("" + this.knightCounter), column, row);
-    this.board[row][column].setImage(new Image("file:knight2.png"));
+    this.board[row][column].setImage(new Image("file:src/resources/knight2.png"));
   }
 
   private void removeKnightFromPrevious(int row, int column) {
